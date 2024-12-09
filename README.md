@@ -10,3 +10,5 @@
    \:\~~\        \:\/:/  /     \:\~~\     
     \:\__\        \::/  /       \:\__\    
      \/__/         \/__/         \/__/    
+My current setup:
+![rice 5](https://raw.githubusercontent.com/rek3000/dotfiles/refs/heads/main/images/rice5.png)
