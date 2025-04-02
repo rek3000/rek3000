@@ -11,5 +11,3 @@
     \:\__\        \::/  /       \:\__\    
      \/__/         \/__/         \/__/    
  </pre>
-My Setup:
-  ![rice 5](https://raw.githubusercontent.com/rek3000/dotfiles/refs/heads/main/images/rice5.png)
